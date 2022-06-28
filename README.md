@@ -43,7 +43,7 @@
 -->
 
 ---
-![ekrof's github stats](https://github-readme-stats.vercel.app/api?username=ekrof&hide=[%22issues%22]&show_icons=true&theme=tokyonight)
+![ekrof's github stats](https://github-readme-stats.vercel.app/api?username=ekrof&count_private=true&show_icons=true&theme=tokyonight)
 
 ---
 
