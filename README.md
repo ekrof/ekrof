@@ -49,7 +49,7 @@
 
 ---
 
-[website]: https://jonas.ekerhovd.it
+[website]: https://ekerhovd.it
 [linkedin]: https://in.linkedin.com/in/jonasekerhovd/
 [twitter]: https://twitter.com/JonasEkerhovd
 [docker]: https://hub.docker.com/u/ekrof
