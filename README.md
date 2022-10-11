@@ -45,7 +45,7 @@
 -->
 
 ---
-![ekrof's github stats](https://github-readme-stats.vercel.app/api?username=ekrof&count_private=true&show_icons=true&theme=tokyonight)
+![ekrof's github stats](https://readme-stats-ekrof.vercel.app/api?username=ekrof&count_private=true&show_icons=true&theme=tokyonight)
 
 ---
 
