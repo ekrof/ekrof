@@ -1,6 +1,6 @@
 ## Hi there, I'm [Jonas Ekerhovd][website] ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height="50px"></h2>
 [![Linkedin Badge](https://img.shields.io/badge/-JonasEkerhovd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin)][linkedin]
-![Twitter Badge](https://img.shields.io/twitter/url?color=black&label=%40JonasEkerhovd&style=social&url=https%3A%2F%2Ftwitter.com%2FJonasTalks)
+![Twitter Badge](https://img.shields.io/twitter/url?color=black&label=%40JonasTalksd&style=social&url=https%3A%2F%2Ftwitter.com%2FJonasTalks)
 
 ### Cloud, DevOps, IT consultant, and all-round technology enthusiast 🌥 🧑‍💻
 
@@ -9,7 +9,7 @@
 
 [<img align="left" alt="ekrof.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Jonas Ekerhovd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="@JonasEkerhovd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="@JonasTalks | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ekrof | Docker Hub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][docker]
 
 <br />
