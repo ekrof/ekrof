@@ -1,6 +1,6 @@
 ## Hi there, I'm [Jonas Ekerhovd][website] ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height="50px"></h2>
 [![Linkedin Badge](https://img.shields.io/badge/-JonasEkerhovd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin)][linkedin]
-![Twitter Badge](https://img.shields.io/twitter/url?color=black&label=%40JonasTalksd&style=social&url=https%3A%2F%2Ftwitter.com%2FJonasTalks)
+![Twitter Badge](https://img.shields.io/twitter/url?color=black&label=%40JonasTalks&style=social&url=https%3A%2F%2Ftwitter.com%2FJonasTalks)
 
 ### Cloud, DevOps, IT consultant, and all-round technology enthusiast 🌥 🧑‍💻
 
