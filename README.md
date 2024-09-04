@@ -9,7 +9,7 @@
 
 [<img align="left" alt="ekrof.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Jonas Ekerhovd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="@JonasTalks | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="@JonasTalks | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.8.0/icons/x.svg" />][x]
 [<img align="left" alt="Ekrof | Docker Hub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][docker]
 
 <br />
@@ -51,5 +51,5 @@
 
 [website]: https://ekerhovd.it
 [linkedin]: https://in.linkedin.com/in/jonasekerhovd/
-[twitter]: https://twitter.com/JonasEkerhovd
+[x]: https://x.com/JonasTalks
 [docker]: https://hub.docker.com/u/ekrof
